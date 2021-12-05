@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "first_Name" : "Charly",
+        "last_Name": "Justice",
+        "password": "charlyjustice",
+        "email" :"charlyjustice@abc.com",
+        "class": 1,
+        "section": "A"
+    },
+    {
+        "id": 2,
+        "first_Name" : "Tasnia",
+        "last_Name": "Bourne",
+        "password": "tasniabourne",
+        "email" :"tasniabourne@abc.com",
+        "class": 1,
+        "section": "B"
+    },
+    {
+        "id": 3,
+        "first_Name" : "Jonathan",
+        "last_Name": "House",
+        "password": "jonathanhouse",
+        "email" :"jonathanhouse@abc.com",
+        "class": 2,
+        "section": "A"
+    },
+    {
+        "id": 4,
+        "first_Name" : "Edward",
+        "last_Name": "Bate",
+        "password": "edwardbate",
+        "email" :"edwardbate@abc.com",
+        "class": 2,
+        "section": "B"
+    }
+]

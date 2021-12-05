@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "first_Name" : "Angus",
+        "last_Name": "Hood",
+        "password": "angushood",
+        "email" :"angushood@abc.com",
+        "class": 1,
+        "section": "A",
+        "active": "1"
+    },
+    {
+        "id": 2,
+        "first_Name" : "Kylo",
+        "last_Name": "Larson",
+        "password": "kylolarson",
+        "email" :"kylolarson@abc.com",
+        "class": 1,
+        "section": "A",
+        "active": "1"
+    },
+    {
+        "id": 3,
+        "first_Name" : "Hilda",
+        "last_Name": "Woods",
+        "password": "hildawoods",
+        "email" :"hildawoods@abc.com",
+        "class": 1,
+        "section": "A",
+        "active": "1"
+    },
+    {
+        "id": 4,
+        "first_Name" : "Iwan",
+        "last_Name": "Moris",
+        "password": "iwanmoris",
+        "email" :"iwanmoris@abc.com",
+        "class": 1,
+        "section": "B",
+        "active": "1"
+    },
+    {
+        "id": 5,
+        "first_Name" : "Allana",
+        "last_Name": "Dalby",
+        "password": "allanadalby",
+        "email" :"allanadalby@abc.com",
+        "class": 1,
+        "section": "B",
+        "active": "1"
+    },
+    {
+        "id": 6,
+        "first_Name" : "Krish",
+        "last_Name": "Rooney",
+        "password": "krishrooney",
+        "email" :"krishrooney@abc.com",
+        "class": 1,
+        "section": "B",
+        "active": "1"
+    },
+    {
+        "id": 7,
+        "first_Name" : "Tasnim",
+        "last_Name": "Evans",
+        "password": "tasnimevans",
+        "email" :"tasnimevans@abc.com",
+        "class": 2,
+        "section": "A",
+        "active": "1"
+    },
+    {
+        "id": 8,
+        "first_Name" : "Jesus",
+        "last_Name": "Hinton",
+        "password": "jesushinton",
+        "email" :"jesushinton@abc.com",
+        "class": 2,
+        "section": "A",
+        "active": "1"
+    },
+    {
+        "id": 9,
+        "first_Name" : "Elena",
+        "last_Name": "Scott",
+        "password": "elenascott",
+        "email" :"elenascott@abc.com",
+        "class": 2,
+        "section": "A",
+        "active": "1"
+    },
+    {
+        "id": 10,
+        "first_Name" : "Pam",
+        "last_Name": "Beesly",
+        "password": "pambeesly",
+        "email" :"pambeesly@abc.com",
+        "class": 2,
+        "section": "B",
+        "active": "1"
+    },
+    {
+        "id": 11,
+        "first_Name" : "Jim",
+        "last_Name": "Halpert",
+        "password": "jimhalpert",
+        "email" :"jimhalpert@abc.com",
+        "class": 2,
+        "section": "B",
+        "active": "1"
+    },
+    {
+        "id": 12,
+        "first_Name" : "Dwight",
+        "last_Name": "Schrute",
+        "password": "dwightschrute",
+        "email" :"dwightschrute@abc.com",
+        "class": 2,
+        "section": "B",
+        "active": "1"
+    }
+]

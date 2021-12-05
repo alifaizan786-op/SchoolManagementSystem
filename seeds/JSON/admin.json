@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "first_Name" : "Peter",
+        "last_Name": "Jack",
+        "role": "principle",
+        "password": "peterjack",
+        "email" :"peterjack@abc.com",
+        "class": 1
+    },
+    {
+        "id": 2,
+        "first_Name" : "Jason",
+        "last_Name": "Monroe",
+        "role": "IT Tech",
+        "password": "jasonmonroe",
+        "email" :"jasonmonroe@abc.com",
+        "class": 1
+    },
+    {
+        "id": 3,
+        "first_Name" : "James",
+        "last_Name": "Mcgill",
+        "role": "principle",
+        "password": "jamesmcgill",
+        "email" :"jamesmcgill@abc.com",
+        "class": 2
+    },
+    {
+        "id": 4,
+        "first_Name" : "Charlie",
+        "last_Name": "Sheen",
+        "role": "IT Tech",
+        "password": "charliesheen",
+        "email" :"charliesheen@abc.com",
+        "class": 2
+    }
+]
